@@ -1,2 +1,0 @@
-# goit
-modul 1
